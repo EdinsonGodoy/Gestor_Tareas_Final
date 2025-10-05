@@ -1,4 +1,4 @@
-# Gestor de Tareas - Proyecto Fullstack
+# Gestor de Tareas - Proyecto Fullstack - Por Edinson Godoy
 
 ## Contenido del repositorio
 
