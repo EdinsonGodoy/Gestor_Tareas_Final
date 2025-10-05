@@ -121,5 +121,5 @@ La aplicación React se abrirá en [http://localhost:3000/](http://localhost:300
 ## Notas finales
 
 - La carpeta `capturas/` contiene imágenes de referencia de la aplicación en ejecución y los endpoints probados.  
-- El archivo `DEMO.md` incluye las credenciales de prueba para testing rápido.  
+- El archivo `seed.js` incluye las credenciales de prueba para testing rápido.  
 - Backend y frontend están separados, asegúrate de ejecutar ambos para que la aplicación funcione correctamente.
