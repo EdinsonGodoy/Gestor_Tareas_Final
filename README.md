@@ -11,7 +11,7 @@ GESTOR_TAREAS_FINAL/
 ├── frontend/     # Interfaz de usuario
 ├── capturas/     # Capturas de pantalla
 ├── README.md     # Este archivo
-└── DEMO.md       # Credenciales de prueba
+
 
 ---
 
