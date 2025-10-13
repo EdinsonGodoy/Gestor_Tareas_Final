@@ -63,8 +63,9 @@ Esto creará usuarios y tareas de prueba.
 - Usuario: `edi3` | Contraseña: `1234`
 
 ### Ejecutar backend
+node src/server.js (directo pero funcional)
 
-npm run dev
+npm run dev (NO ANDA porque hay que fixear partes del código)
 
 El servidor correrá en [http://localhost:4000/](http://localhost:4000/).
 
