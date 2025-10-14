@@ -28,6 +28,25 @@ GESTOR_TAREAS_FINAL/
 ![Endpoints](capturas/endpoints.png)
 
 ---
+## Base de datos
+npx prisma generate
+npx prisma migrate dev --name init
+
+Qué hace cada uno:
+
+1️⃣ npx prisma generate
+
+Genera el cliente de Prisma (la librería que permite que el backend hable con PostgreSQL).
+
+No modifica la base de datos.
+
+2️⃣ npx prisma migrate dev --name init
+
+Crea automáticamente la base de datos (si no existe aún).
+
+Aplica las migraciones definidas en prisma/migrations/.
+
+Crea las tablas (User, Task, etc.) basadas en el schema.prisma.
 
 ## Backend
 
