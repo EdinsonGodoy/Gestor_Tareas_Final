@@ -29,8 +29,8 @@ GESTOR_TAREAS_FINAL/
 
 ---
 ## Base de datos
-npx prisma generate
-# npx prisma migrate dev --name init
+npx prisma generate.
+npx prisma migrate dev --name init
 
 Qué hace cada uno:
 
